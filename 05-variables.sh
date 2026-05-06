@@ -11,3 +11,6 @@ echo "$?"
 
 read -s PASSWORD 
 echo "$?"
+
+echo "$PASSWORD"
+echo "$?"
