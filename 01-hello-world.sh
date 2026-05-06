@@ -1,4 +1,6 @@
 #!/bin/bash 
 
 echo "Hello World!"
-echo "$?"
+
+exitcode="$?"
+echo "$exitcode"
